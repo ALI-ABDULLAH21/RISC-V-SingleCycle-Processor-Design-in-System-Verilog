@@ -1,8 +1,10 @@
 RISC-V Single-Cycle and Pipelined Processor Design
 
+Overview
+
 This repository showcases the design and implementation of a 3-stage pipelined processor built on the RISC-V Instruction Set Architecture (ISA).
 
-Overview of Supported Instructions
+Supported Instructions
 
 Data Processing Instructions
 
@@ -89,3 +91,4 @@ By default, the dump file is named processor.vcd. You can analyze the signals an
 Conclusion
 
 This project demonstrates a robust and efficient implementation of a RISC-V-based pipelined processor. The design handles hazards, interrupts, and control flow effectively, making it a great starting point for exploring RISC-V processor architectures.
+
